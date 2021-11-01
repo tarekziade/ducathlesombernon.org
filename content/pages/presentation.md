@@ -2,16 +2,52 @@ Title:  Présentation
 Date: 2021-10-18
 status: hidden
 
-# Lorem ipsum dolor sit amet
+Depuis plus de 20 ans, l’association  DUC  athlétisme  est  une
+sous-section  du  DUC athlétisme Dijon, affiliée à la Fédération
+Française d’Athlétisme (FFA).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique vitae nulla et efficitur. Aliquam erat volutpat. Donec eu elit efficitur nunc faucibus egestas non vel tortor. Quisque mi neque, hendrerit aliquam nunc quis, imperdiet vulputate ante. Nunc vitae pulvinar urna, auctor suscipit purus. Vestibulum interdum sapien ex. Duis fermentum eleifend sapien hendrerit consectetur. Nam tellus ante, maximus sed volutpat nec, feugiat vitae enim. Nunc at pharetra velit. Vestibulum tempor leo non quam lobortis sodales.
+Son Président, Jacques LARCIER, organise entraînements et compétitions pour les
+jeunes de la région. Presque 80 jeunes de 6 à 15 ans apprennent les mouvements
+et enchaînements qui leur permettront de perfectionner courses, sauts et
+lancers. Depuis quelques années, une section adultes a été lancée.
 
-Donec in auctor libero. Donec sed quam sapien. Nulla vitae mi molestie, hendrerit ante bibendum, pretium ipsum. Nullam elit nisl, luctus at maximus vulputate, elementum eu felis. Sed auctor finibus felis. Suspendisse vitae feugiat mauris. Aliquam accumsan ante a tellus fermentum, efficitur convallis enim convallis. Nunc sodales nulla eget tempus faucibus. Curabitur sagittis tincidunt libero, non convallis justo interdum condimentum. Vestibulum a tortor eget neque fermentum dignissim aliquam eu urna.
+Pendant 2 heures chaque samedi matin de 10 à 12 heures à la salle de sports du
+collège Mercusot, des entraîneurs bénévoles préparent les enfants, soit par des
+ateliers ludiques pour les plus petits, soit par des ateliers qualifiés pour
+les plus grands. Pendant ce temps, les adultes suivent un entraînement encadré
+sur les sentiers autour de Sombernon.
 
-# Lorem ipsum dolor sit amet
+Une séance supplémentaire pour les adultes se tient également les Mardi soir
+le long du Canal au départ de Pont-de-Pany.
 
-Sed a ligula turpis. Praesent et libero at enim pellentesque tincidunt sed ut diam. Vivamus scelerisque ipsum quam, ut viverra libero hendrerit non. Aenean dignissim tortor et scelerisque tristique. Sed pretium mi at mi sagittis, ut iaculis enim hendrerit. Donec porttitor augue interdum nisl posuere, vitae pretium lacus laoreet. Phasellus id erat massa. Duis consequat et nisl ut vulputate. In id ipsum nec mi auctor congue. Suspendisse eu enim scelerisque, sodales dui et, pellentesque velit.
+Les entraînements du Samedi pour les enfants sont divisés en 3 sections:
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris ut accumsan ligula. Quisque semper a leo vitae tempor. Nam id tempor neque, in suscipit lacus. Suspendisse sem arcu, sollicitudin id lectus vitae, varius dapibus enim. Cras id magna non quam tempor maximus vel ut eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris quis rhoncus nibh. In in lacinia massa, sagittis placerat tellus. Aliquam erat volutpat. Donec tincidunt dui a nibh rutrum, et lobortis eros malesuada. Etiam posuere leo id lacinia efficitur.
+- écoles d’athlétisme ou mini-poussins
+- poussins
+- benjamins et minimes 
 
-N
+Des compétitions sont organisées régulièrement. En hiver il y a surtout les
+cross country, le plus célèbre de la région étant celui d’Arnay le Duc le
+11  novembre, puis les compétitions officielles de la FFA, Côte d’Or
+et Bourgogne pour les plus grands.
+
+Des athlètes du  DUC Sombernon s’illustrent régulièrement lors de ces cross.
+Au printemps, ont lieu les compétitions en stade. Les athlètes réalisent un 
+«triathlon », soit une combinaison entre une course courte ou longue, avec ou
+sans haies, un saut en longueur ou en hauteur, un lancer (poids, disque,
+marteau, javelot). Les meilleurs s’affrontent dans une série de concours et
+doivent réaliser le plus grand nombre de points dans les 3 disciplines. 
+
+Le DUC Sombernon organise également des évènements :
+
+- Les championnats de Côte d’Or de cross l’an dernier à Sombernon 
+- Un vide-grenier le 2ème week-end de septembre 
+- Le trail de la Voie Romaine, de Sombernon à Alésia, le 1er dimanche d’avril ainsi que de 
+nombreuses buvettes sur les manifestations organisées à Dijon (championnats de France       
+Cadets-Juniors, Rencontre Elite, etc.).
+
+Le DUC Sombernon participe aussi à des manifestations locales (fête des
+sorcières à  Mâlain,  triathlons). Ces évènements servent à dynamiser
+l’association,  resserrer  les  liens associatifs et le bénévolat, et
+bien sûr, à financer les besoins du club en matériel et logistique. DUC
+Athlétisme Sombernon Fête du sport à Sombernon en 2013  
