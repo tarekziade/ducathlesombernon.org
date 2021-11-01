@@ -17,10 +17,21 @@ Les activités sont divisés en 3 sections:
 - poussins
 - benjamins et minimes 
 
+![Groupe Enfants](/images/enfants.png)
+
+
 ### Adultes
 
-Pendant ce temps, les adultes suivent un entraînement encadré sur les sentiers
-autour de Sombernon.
+La sortie Adultes du samedi matin est une sortie plaisir pour s'aérer l'esprit
+et faire bouger son corps. On fait quelques exercices pour travailler la
+posture et acquérir un peu de souplesse. Puis on fait une boucle dans les bois. 
+Ceux qui ont plus d'énergie peuvent toujours faire une boucle en plus ou se
+voir proposer une séance plus ardue. Le petit plus c'est que la séance permet
+de venir avec ses enfants qui pratiquent avec leurs groupes et de les récupérer
+en fin de matinée.
+
+![Groupe du Samedi](/images/samedi-adultes.png)
+
 
 ## Mardi Soir
 
