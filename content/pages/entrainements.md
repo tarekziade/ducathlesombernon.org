@@ -6,18 +6,36 @@ status: hidden
 
 ### Enfants
 
-Pendant 2 heures chaque samedi matin de 10 à 12 heures à la salle de sports du
-collège Mercusot, des entraîneurs bénévoles préparent les enfants, soit par des
-ateliers ludiques pour les plus petits, soit par des ateliers qualifiés pour
-les plus grands. 
-
-Les activités sont divisés en 3 sections:
+Les entraînements ont lieu une fois par semaine le samedi matin de 10 heures à
+midi. Les activités sont divisés en 3 sections:
 
 - écoles d’athlétisme ou mini-poussins
 - poussins
 - benjamins et minimes 
 
+Pour les poussins, nous débutons généralement l’entraînement par un footing
+dans la campagne de 15 à 20 minutes, dont les objectifs essentiels sont la
+chauffe musculaire et la cohésion du groupe. La solidarité est de mise puisque
+les plus rapides sont parfois chargés de venir soutenir les enfants moins en
+jambes. 
+
 ![Groupe Enfants](/images/enfants.png)
+
+Respect de soi, de l’autre, entraide et esprit d’équipe sont des
+valeurs que nous nous efforçons de mettre en évidence lors de chaque
+entraînement.
+
+La suite de l’entraînement se déroule sous forme d’ateliers
+tournants, chaque atelier traite de lancers, de sauts, de courses et de
+proprioception. Nous enchaînons ensuite avec un peu d’aérobie sous forme de
+jeux ou sous forme plus traditionnelle comme le fractionné. Progressivement,
+les enfants sont guidés vers des intentions de postures et passent alors d’un
+geste naturel à un geste athlétique avec une maîtrise un peu plus élaborée au
+fil des entraînements. Enfin la clôture s’effectue avec du gainage, des
+étirements ou un footing court de retour au gymnase. C’est aussi l’occasion de
+faire un débriefing sur la séance écoulée ou sur une compétition passée ou à
+venir.
+
 
 
 ### Adultes
