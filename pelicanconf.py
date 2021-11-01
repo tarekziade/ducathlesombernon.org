@@ -38,5 +38,5 @@ TAG_SAVE_AS = 'tag/{slug}/index.html'
 MENUITEMS = [('Présentation', '/pages/presentation.html'),
              ('Entrainements', '/pages/entrainements.html'),
              ('Association', '/pages/association.html'),
-             ('Evenements', '/pages/evenements.html'),
+             ('Événements', '/pages/evenements.html'),
              ('Infos pratiques', '/pages/informations-pratiques.html')]

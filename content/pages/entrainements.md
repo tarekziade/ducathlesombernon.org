@@ -2,16 +2,55 @@ Title:  Entraînements
 Date: 2021-10-18
 status: hidden
 
-# Lorem ipsum dolor sit amet
+## Samedi matin
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique vitae nulla et efficitur. Aliquam erat volutpat. Donec eu elit efficitur nunc faucibus egestas non vel tortor. Quisque mi neque, hendrerit aliquam nunc quis, imperdiet vulputate ante. Nunc vitae pulvinar urna, auctor suscipit purus. Vestibulum interdum sapien ex. Duis fermentum eleifend sapien hendrerit consectetur. Nam tellus ante, maximus sed volutpat nec, feugiat vitae enim. Nunc at pharetra velit. Vestibulum tempor leo non quam lobortis sodales.
+### Enfants
 
-Donec in auctor libero. Donec sed quam sapien. Nulla vitae mi molestie, hendrerit ante bibendum, pretium ipsum. Nullam elit nisl, luctus at maximus vulputate, elementum eu felis. Sed auctor finibus felis. Suspendisse vitae feugiat mauris. Aliquam accumsan ante a tellus fermentum, efficitur convallis enim convallis. Nunc sodales nulla eget tempus faucibus. Curabitur sagittis tincidunt libero, non convallis justo interdum condimentum. Vestibulum a tortor eget neque fermentum dignissim aliquam eu urna.
+Pendant 2 heures chaque samedi matin de 10 à 12 heures à la salle de sports du
+collège Mercusot, des entraîneurs bénévoles préparent les enfants, soit par des
+ateliers ludiques pour les plus petits, soit par des ateliers qualifiés pour
+les plus grands. 
 
-# Lorem ipsum dolor sit amet
+Les activités sont divisés en 3 sections:
 
-Sed a ligula turpis. Praesent et libero at enim pellentesque tincidunt sed ut diam. Vivamus scelerisque ipsum quam, ut viverra libero hendrerit non. Aenean dignissim tortor et scelerisque tristique. Sed pretium mi at mi sagittis, ut iaculis enim hendrerit. Donec porttitor augue interdum nisl posuere, vitae pretium lacus laoreet. Phasellus id erat massa. Duis consequat et nisl ut vulputate. In id ipsum nec mi auctor congue. Suspendisse eu enim scelerisque, sodales dui et, pellentesque velit.
+- écoles d’athlétisme ou mini-poussins
+- poussins
+- benjamins et minimes 
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris ut accumsan ligula. Quisque semper a leo vitae tempor. Nam id tempor neque, in suscipit lacus. Suspendisse sem arcu, sollicitudin id lectus vitae, varius dapibus enim. Cras id magna non quam tempor maximus vel ut eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris quis rhoncus nibh. In in lacinia massa, sagittis placerat tellus. Aliquam erat volutpat. Donec tincidunt dui a nibh rutrum, et lobortis eros malesuada. Etiam posuere leo id lacinia efficitur.
+### Adultes
 
-N
+Pendant ce temps, les adultes suivent un entraînement encadré sur les sentiers
+autour de Sombernon.
+
+## Mardi Soir
+
+![Groupe du Mardi](/images/mardi.png)
+
+L'entraînement du mardi soir est un entraînement structuré qui propose une
+séance de fractionné intensif. Il s'agit de courir rapidement sur une distance
+courte (100, 200, 300 ou 400M), de récupérer, puis de recommencer en alternance
+un certain nombre de fois.
+
+Cette technique permet de développer sa vitesse et son endurance en minimisant
+sa fatigue - elle est utilisée en période de préparation de course, mais aussi
+en période de reprise ou d'entretien.
+
+[Plus d'info sur Wikipédia](https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9)
+
+Le rendez-vous est pris à 18h30 le mardi soir à l'écluse de Pont-de-Pany, à
+l'intersection entre la rue de Bourgogne et la voie cyclable.
+
+[Endroit précis](https://goo.gl/maps/hfFYVNmRWCK138ya8)
+
+Il n'y a aucun pré-requis de niveau, et le groupe reste ensemble pendant la séance.
+
+Une séance est organisée en quatre parties:
+
+- footing de mise en route
+- échauffement dynamique des groupes musculaires
+- fractionné
+- retour au calme
+
+Si vous arrivez un peu en retard, pas de soucis! On démarre le footing en
+direction de Sainte-Marie le long du canal sur la piste cyclable et on retourne
+à proximité de l'écluse pour commencer la séance. 
