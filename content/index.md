@@ -1,22 +1,23 @@
 Title: DUC Athlé Sombernon
 Date: 2021-10-18
-Category: Actu
 
-# EvEil Athlé
+# Catégories enfant
+
+## EvEil Athlé
 
 Enfants nés de 2012 à 2014
 
 Courir, sauter, tourner, rouler, ramper, lancer, marcher, grimper… Apprendre
 les gestes de base de tous les sports, l’équilibre et la coordination. Poussins
 
-# Nés de 2006 à 2009
+## Nés de 2006 à 2009
 
 Découvrir toutes les disciplines de l’athlé ! Au travers d’activités et de
 situations ludiques, développer les capacités à courir vite et longtemps,
 lancer loin, sauter haut ou loin et marcher ! Améliorer la coordination,
 développer le goût de l’effort et l’esprit d’équipe.
 
-# Minimes et BenjamIns
+## Minimes et BenjamIns
 
 Enfants nés en 2010 et 2011
 

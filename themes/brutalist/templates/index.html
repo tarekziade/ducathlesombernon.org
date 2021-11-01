@@ -34,7 +34,11 @@
           </h2>
         </header>
 	<div class="content">
-	 {{ articles_page.object_list[0].content|safe }}
+          {% for article in articles_page.object_list %}
+            {% if article.slug == 'duc-athle-sombernon' %}
+	      {{ article.content|safe }}
+	    {% endif %}
+          {% endfor %}
      </div>
     </article>
   </div>

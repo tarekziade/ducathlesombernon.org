@@ -32,6 +32,8 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+TAG_URL = 'tag/{slug}/'
+TAG_SAVE_AS = 'tag/{slug}/index.html'
 
 MENUITEMS = [('Présentation', '/pages/presentation.html'),
              ('Entrainements', '/pages/entrainements.html'),

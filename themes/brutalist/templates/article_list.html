@@ -1,6 +1,8 @@
 <div class="articles">
         <ol>
-            {% for article in articles_page.object_list[1:] %}
+            {% for article in articles_page.object_list %}
+	    {% if article.slug != 'duc-athle-sombernon' %}
+	    
             <li>
                 <article>
                     <footer>
@@ -29,11 +31,13 @@
                         </ul>
                     </div>
                     <a href="{{ SITEURL }}/{{ article.url }}">
-                        <p class="readmore">Read more...</p>
+                        <p class="readmore">Lire...</p>
                     </a>
                 </article>
             </li>
-            {% endfor %}
+	    {% endif %}
+	    {% endfor %}
+	    
         </ol>
         {% if articles_page.has_other_pages() %}
             {% include 'pagination.html' %}
