@@ -2,16 +2,47 @@ Title:  Association
 Date: 2021-10-18
 status: hidden
 
-# Lorem ipsum dolor sit amet
+## L'Equipe
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique vitae nulla et efficitur. Aliquam erat volutpat. Donec eu elit efficitur nunc faucibus egestas non vel tortor. Quisque mi neque, hendrerit aliquam nunc quis, imperdiet vulputate ante. Nunc vitae pulvinar urna, auctor suscipit purus. Vestibulum interdum sapien ex. Duis fermentum eleifend sapien hendrerit consectetur. Nam tellus ante, maximus sed volutpat nec, feugiat vitae enim. Nunc at pharetra velit. Vestibulum tempor leo non quam lobortis sodales.
+![Jacques](/images/jlarcier.jpg)
+*Jacques Larcier - Président - Logistique et Intendance*
 
-Donec in auctor libero. Donec sed quam sapien. Nulla vitae mi molestie, hendrerit ante bibendum, pretium ipsum. Nullam elit nisl, luctus at maximus vulputate, elementum eu felis. Sed auctor finibus felis. Suspendisse vitae feugiat mauris. Aliquam accumsan ante a tellus fermentum, efficitur convallis enim convallis. Nunc sodales nulla eget tempus faucibus. Curabitur sagittis tincidunt libero, non convallis justo interdum condimentum. Vestibulum a tortor eget neque fermentum dignissim aliquam eu urna.
+![Aurélie](/images/agirard.jpg)
+*Aurélie Girard - Vice-présidente - Encadrement Sportif*
 
-# Lorem ipsum dolor sit amet
+![Guillaume](/images/gvolmers.jpg)
+*Guillaume Volmers - Secrétaire et Encadrement Sportif*
 
-Sed a ligula turpis. Praesent et libero at enim pellentesque tincidunt sed ut diam. Vivamus scelerisque ipsum quam, ut viverra libero hendrerit non. Aenean dignissim tortor et scelerisque tristique. Sed pretium mi at mi sagittis, ut iaculis enim hendrerit. Donec porttitor augue interdum nisl posuere, vitae pretium lacus laoreet. Phasellus id erat massa. Duis consequat et nisl ut vulputate. In id ipsum nec mi auctor congue. Suspendisse eu enim scelerisque, sodales dui et, pellentesque velit.
+![Jocelyne](/images/jconscience.jpg)
+*Jocelyne Conscience - Trésorière et Logistique et Intendance*
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris ut accumsan ligula. Quisque semper a leo vitae tempor. Nam id tempor neque, in suscipit lacus. Suspendisse sem arcu, sollicitudin id lectus vitae, varius dapibus enim. Cras id magna non quam tempor maximus vel ut eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris quis rhoncus nibh. In in lacinia massa, sagittis placerat tellus. Aliquam erat volutpat. Donec tincidunt dui a nibh rutrum, et lobortis eros malesuada. Etiam posuere leo id lacinia efficitur.
+![Dominique](/images/ddagosto.jpg)
+*Dominique D'Agosto - Directeur Technique et Encadrement Sportif*
 
-Nunc orci mauris, condimentum nec libero in, dictum tristique eros. In ultrices est sit amet odio commodo auctor. Curabitur at hendrerit ligula, et volutpat ligula. Aenean orci mi, lobortis et eleifend id, sodales facilisis dui. Quisque eros dui, venenatis ac mattis et, porta eu mauris. Mauris mauris sapien, posuere vitae posuere non, facilisis id sem. Vestibulum luctus tincidunt diam, ac fringilla ex facilisis et. Pellentesque pretium aliquet lacus, in porta mauris facilisis ut. Maecenas eget tortor et sem egestas volutpat vel varius leo. Suspendisse ut tortor id nisi dapibus mollis. Cras at tincidunt felis, eget facilisis nisi. Mauris eget arcu in lacus fringilla consectetur. Suspendisse commodo ex eu iaculis gravida. Cras congue nulla eu aliquam posuere. 
+![Alain](/images/abulot.jpg)
+*Alain Bulot - Membre d'honneur - Président DUC Dijon*
+
+![Franck](/images/fenderlin.jpg)
+*Franck Enderlin - Encadrement Sportif*
+
+![Céline](/images/cfinot.jpg)
+*Céline Finot-Blain - Encadrement Sportif*
+
+![Angélique](/images/aleblond.jpg)
+*Angéliqe Leblond - Encadrement Sportif*
+
+![Vincent](/images/vponthonne.jpg)
+*Vincent Ponthonne - Encadrement Sportif*
+
+![Steve](/images/smoulys.jpg)
+*Steve Moulys - Encadrement Sportif*
+
+![Sylvie](/images/slarcier.jpg)
+*Sylvie Larcier - Logistique et Intendance*
+
+![Chantal](/images/cchavroche.jpg)
+*Chantal Chavroche - Logistique et Intendanc*
+
+![Delphine](/images/dtiteux.jpg)
+*Delphine Titeux - Logistique et Intendanc*
+
