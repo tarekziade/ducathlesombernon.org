@@ -19,7 +19,7 @@ chauffe musculaire et la cohésion du groupe. La solidarité est de mise puisque
 les plus rapides sont parfois chargés de venir soutenir les enfants moins en
 jambes. 
 
-![Groupe Enfants](/images/enfants.png)
+![Groupe Enfants](/images/enfants.jpg)
 
 Respect de soi, de l’autre, entraide et esprit d’équipe sont des
 valeurs que nous nous efforçons de mettre en évidence lors de chaque
@@ -48,12 +48,12 @@ voir proposer une séance plus ardue. Le petit plus c'est que la séance permet
 de venir avec ses enfants qui pratiquent avec leurs groupes et de les récupérer
 en fin de matinée.
 
-![Groupe du Samedi](/images/samedi-adultes.png)
+![Groupe du Samedi](/images/samedi-adultes.jpg)
 
 
 ## Mardi Soir
 
-![Groupe du Mardi](/images/mardi.png)
+![Groupe du Mardi](/images/mardi.jpg)
 
 L'entraînement du mardi soir est un entraînement structuré qui propose une
 séance de fractionné intensif. Il s'agit de courir rapidement sur une distance
