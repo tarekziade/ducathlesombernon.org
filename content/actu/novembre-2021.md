@@ -26,8 +26,8 @@ confirmation de votre présence par retour de mail.
 ## Janvier 2022
 
 - samedi 1er - pas d'entraînement
-- samedi 8 janvier Entraînement uniquement  EA et PO
-- dimanche 12 - <span style="color:red">Départementaux de cross à Talant pour tous sauf EA/PO</span>
+- samedi 8 - Entraînement uniquement EA et PO
+- dimanche 9 - <span style="color:red">Départementaux de cross à Talant pour tous sauf EA/PO</span>
 - samedi 15, 22 - Entraînement
 - dimanche 23 - <span style="color:red">Départementaux en salle BE (matin) MI (aprem) Dijon, Campus</span>
 - samedi 29 - Entraînement
