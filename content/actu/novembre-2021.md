@@ -10,7 +10,7 @@ confirmation de votre présence par retour de mail.
 
 - samedi 6 - Vacances scolaires pas d'entraînement
 - jeudi 11 - <span style="color:red">Cross à Arnay-le-Duc pour toutes les catégories</span>
-- samedi 13, 20 et 17 - Entraînement
+- samedi 13, 20 et 27 - Entraînement
 
 ## Décembre 2021
 
