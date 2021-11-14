@@ -16,9 +16,6 @@ présents sur les différentes courses
 ![Fuchey Cross Groupe EA](/images/fuchey-2021-2.jpg)
 *Fuchey Cross Groupe EA*
 
-![Fuchey Cross Groupe EA](/images/fuchey-2021-4.jpg)
-*Fuchey Cross Groupe EA*
-
 ![Fuchey Cross Groupe](/images/fuchey-2021-4.jpeg)
 *Fuchey Cross Groupe Adultes*
 
