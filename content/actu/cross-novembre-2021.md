@@ -6,7 +6,7 @@ Category: Actualités
 ## Fuchey Cross
 
 Le traditionel [Fuchey Cross d'Arnay-le-Duc](http://www.fucheycross.fr/) qui a lieu chaque année le 11
-novembre s'est déroulée pour ce millésime 2021 sous un grand soleil et des
+novembre s'est déroulé pour ce millésime 2021 sous un grand soleil et des
 températures très douces pour la saison.
 
 Un grand nombre de Ducistes de Dijon, Is-sur-Tille et Sombernon ont répondu
