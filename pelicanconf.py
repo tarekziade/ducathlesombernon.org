@@ -36,8 +36,11 @@ TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
 STATIC_PATHS = ['images', 'documents']
 
-MENUITEMS = [('Présentation', '/pages/presentation.html'),
+MENUITEMS = [
+
+             ('Infos pratiques', '/pages/informations-pratiques.html'),
              ('Entrainements', '/pages/entrainements.html'),
-             ('Association', '/pages/association.html'),
              ('Événements', '/pages/evenements.html'),
-             ('Infos pratiques', '/pages/informations-pratiques.html')]
+             ('Association', '/pages/association.html'),
+             ('Historique', '/pages/presentation.html')
+             ]

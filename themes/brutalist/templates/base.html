@@ -89,9 +89,6 @@
                         <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">{{ p.slug }}</a></li>
                       {% endfor %}
                     {% endif %}
-                    {% for title, link in MENUITEMS %}
-                        <li><a href="{{ link }}">{{ title }}</a></li>
-                    {% endfor %}
                     {% if DISPLAY_CATEGORIES_ON_MENU %}
                         {% for cat, null in categories %}
                             {% if cat != "misc" %}
@@ -99,6 +96,9 @@
                             {% endif %}
                         {% endfor %}
                     {% endif %}
+                    {% for title, link in MENUITEMS %}
+                        <li><a href="{{ link }}">{{ title }}</a></li>
+                    {% endfor %}
                 </ul>
             </nav>
         </header>
