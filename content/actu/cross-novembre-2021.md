@@ -38,11 +38,15 @@ Les finales du championnat de France avaient lieu quelques jours plus tard à Mo
 ![Montauban](/images/montauban-2021-2.jpeg)
 *Montauban*
 
-Le Duc Athlé Sombernon y était représenté par Dominique D'Agosto et Samuel
-Jeannin, qui ont pu se frotter aux meilleurs crossmen de France sur un superbe
-parcours sur l'hippodrome de Montauban.
+Le Duc Athlé Sombernon y était représenté par Dominique D'Agosto qui a pu se
+frotter aux meilleurs crossmen de France sur un superbe parcours sur
+l'hippodrome de Montauban.
+
+Samuel Jeannin était lui aussi présent, invité au spectacle en temps que
+spectateur compte tenu de sa participation aux interégionaux de cross du
+Creusot.
 
 ![Montauban](/images/montauban-2021-1.jpeg)
 *Montauban*
 
-**Bravo à vous deux!**
+**Bravo à Dominique pour sa course et à Samuel pour sa belle prestation au Creusot!**
