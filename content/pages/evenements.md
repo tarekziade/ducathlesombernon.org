@@ -7,5 +7,5 @@ status: hidden
 ![Trail des Sorcières](/images/affiche-trail.jpeg)
 *Trail des Sorcières*
 
-[http://www.traildesorcieres.com/](Site de l'évènement)
+[Site de l'évènement](http://www.traildesorcieres.com)
 
