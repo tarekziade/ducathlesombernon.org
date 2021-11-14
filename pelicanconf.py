@@ -34,10 +34,10 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 TAG_URL = 'tag/{slug}/'
 TAG_SAVE_AS = 'tag/{slug}/index.html'
+STATIC_PATHS = ['images', 'documents']
 
 MENUITEMS = [('Présentation', '/pages/presentation.html'),
              ('Entrainements', '/pages/entrainements.html'),
-             ('Association', '/pages/association.html')]
-
+             ('Association', '/pages/association.html'),
              #('Événements', '/pages/evenements.html'),
-             #('Infos pratiques', '/pages/informations-pratiques.html')]
+             ('Infos pratiques', '/pages/informations-pratiques.html')]

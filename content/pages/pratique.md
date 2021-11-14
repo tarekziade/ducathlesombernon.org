@@ -2,16 +2,41 @@ Title:  Informations pratiques
 Date: 2021-10-18
 status: hidden
 
-# Lorem ipsum dolor sit amet
+## Coordonnées
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec tristique vitae nulla et efficitur. Aliquam erat volutpat. Donec eu elit efficitur nunc faucibus egestas non vel tortor. Quisque mi neque, hendrerit aliquam nunc quis, imperdiet vulputate ante. Nunc vitae pulvinar urna, auctor suscipit purus. Vestibulum interdum sapien ex. Duis fermentum eleifend sapien hendrerit consectetur. Nam tellus ante, maximus sed volutpat nec, feugiat vitae enim. Nunc at pharetra velit. Vestibulum tempor leo non quam lobortis sodales.
+Pour contacter le club, vous pouvez envoyer un e-mail à [ducsombernon@gmail.com](mailto:ducsombernon@gmail.com)
 
-Donec in auctor libero. Donec sed quam sapien. Nulla vitae mi molestie, hendrerit ante bibendum, pretium ipsum. Nullam elit nisl, luctus at maximus vulputate, elementum eu felis. Sed auctor finibus felis. Suspendisse vitae feugiat mauris. Aliquam accumsan ante a tellus fermentum, efficitur convallis enim convallis. Nunc sodales nulla eget tempus faucibus. Curabitur sagittis tincidunt libero, non convallis justo interdum condimentum. Vestibulum a tortor eget neque fermentum dignissim aliquam eu urna.
+## Plan d'accès
 
-# Lorem ipsum dolor sit amet
+Les entraînements du Samedi matin se déroulent au gymnase du collège Jacques
+Mercusot de Sombernon. Le parking se situe au bout de la rue des Tanneries en
+contre-bas du collège, et il est déconseillé de se garer rue de Lauterecken.
 
-Sed a ligula turpis. Praesent et libero at enim pellentesque tincidunt sed ut diam. Vivamus scelerisque ipsum quam, ut viverra libero hendrerit non. Aenean dignissim tortor et scelerisque tristique. Sed pretium mi at mi sagittis, ut iaculis enim hendrerit. Donec porttitor augue interdum nisl posuere, vitae pretium lacus laoreet. Phasellus id erat massa. Duis consequat et nisl ut vulputate. In id ipsum nec mi auctor congue. Suspendisse eu enim scelerisque, sodales dui et, pellentesque velit.
+![Plan](/images/plan-gymnase.jpg)
+*Plan d'accès Gymnase*
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris ut accumsan ligula. Quisque semper a leo vitae tempor. Nam id tempor neque, in suscipit lacus. Suspendisse sem arcu, sollicitudin id lectus vitae, varius dapibus enim. Cras id magna non quam tempor maximus vel ut eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris quis rhoncus nibh. In in lacinia massa, sagittis placerat tellus. Aliquam erat volutpat. Donec tincidunt dui a nibh rutrum, et lobortis eros malesuada. Etiam posuere leo id lacinia efficitur.
+Rendez-vous à 10h pour les enfants et à 10h15 pour le groupe adultes.
 
-N
+Pour les entraînements du Mardi, le rendez-vous est pris à 18h30 le mardi soir
+à l'écluse de Pont-de-Pany, à l'intersection entre la rue de Bourgogne et la
+voie cyclable.
+
+![Plan](/images/plan-pany.jpg)
+*Plan d'accès Pont-de-Pany*
+
+
+## Inscription
+
+Les inscriptions se font en général à la rentrée scolaire en septembre, mais
+vous pouvez vous inscrire en cours d'année dans la limite des places disponibles.
+
+Pour les groupes enfants, le nombre est fixé en fonction du nombre d'encadrants
+de chaque groupe, et peut varier d'une année sur l'autre.
+
+Dans tous les cas n'hésitez pas à nous contacter pour vous renseigner.
+
+Voici les documents pour l'inscription:
+
+- [Fiche d'inscription 2021-2022](/documents/fiche-inscription-2020-2021.pdf)
+- [Fiche de liaison](/documents/fichedeliaison.pdf)
+

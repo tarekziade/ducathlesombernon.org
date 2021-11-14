@@ -7,9 +7,6 @@ status: hidden
 ![Jacques](/images/jlarcier.jpg)
 *Jacques Larcier - Président - Logistique et Intendance*
 
-![Aurélie](/images/agirard.jpg)
-*Aurélie Girard - Vice-présidente - Encadrement Sportif*
-
 ![Guillaume](/images/gvolmers.jpg)
 *Guillaume Volmers - Secrétaire et Encadrement Sportif*
 
