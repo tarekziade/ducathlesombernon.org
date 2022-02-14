@@ -2,8 +2,9 @@ title: Marche Nordique et Randonnée
 date: 2022-02-14
 Category: Actualités
 
-Le Dimanche 17 avril, le DUC Athé Sombernon organise en collaboration avec les
-Nazoirs de Prâlon une marche nordique à Prâlon autour du Mont Chauvin.
+Le Dimanche 17 avril, le DUC Athlé Sombernon organise en collaboration avec les
+Nazoirs de Prâlon une marche nordique à Prâlon autour du Mont Chauvin, dans le
+respect des protocoles sanitaires en vigueur le jour de l'épreuve.
 
 ![Affiche Marche Nordique](/images/mn-2022-affiche.jpg)
 
@@ -13,7 +14,6 @@ L’épreuve est ouverte à une randonnée, marche santé loisir
 sans classement.
 
 ![Parcours](/images/mn-2022-plan.jpg)
-
 
 Liens vers les inscriptions:
 
