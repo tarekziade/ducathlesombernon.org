@@ -8,7 +8,7 @@ Nazoirs de Prâlon une marche nordique à Prâlon autour du Mont Chauvin.
 ![Affiche Marche Nordique](/images/mn-2022-affiche.jpg)
 
 C’est une compétition de marche nordique FFA chronométrée
-ouverte au non licenciés FFA avec certificat médical.
+ouverte aux non licenciés FFA avec certificat médical.
 L’épreuve est ouverte à une randonnée, marche santé loisir
 sans classement.
 
