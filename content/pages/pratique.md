@@ -4,7 +4,7 @@ status: hidden
 
 ## Coordonnées
 
-Pour contacter le club, vous pouvez envoyer un e-mail à [ducsombernon@gmail.com](mailto:ducsombernon@gmail.com)
+Pour contacter ze club, vous pouvez envoyer un e-mail à [ducsombernon@gmail.com](mailto:ducsombernon@gmail.com)
 
 ## Plan d'accès
 
