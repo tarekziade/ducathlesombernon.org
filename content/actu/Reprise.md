@@ -4,4 +4,4 @@ Category: Actualités
 
 ## Démarrage de la Saison 2022-2023
 
-![Reprise](/images/Reprise.png)
+![Reprise](/images/Reprise.jpg)
