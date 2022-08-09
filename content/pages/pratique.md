@@ -37,6 +37,8 @@ Dans tous les cas n'hésitez pas à nous contacter pour vous renseigner.
 
 Voici les documents pour l'inscription:
 
-- [Fiche d'inscription 2021-2022](/documents/fiche-inscription-2020-2021.pdf)
+- [Fiche d'inscription 2022-2023](/documents/fiche inscription2022-2023.pdf)
 - [Fiche de liaison](/documents/fichedeliaison.pdf)
+- [Questionnaire santé pour mineur](/documents/QSmineur.pdf)
+- [Questionnaire santé pour majeur](/documents/QSmajeur.pdf)
 
