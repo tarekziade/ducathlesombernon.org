@@ -15,9 +15,9 @@ contre-bas du collège, et il est déconseillé de se garer rue de Lauterecken.
 ![Plan](/images/plan-gymnase.jpg)
 *Plan d'accès Gymnase*
 
-Rendez-vous à 10h pour les enfants et à 10h15 pour le groupe adultes.
+Rendez-vous à 10h pour les enfants et à 10h15 pour le groupe running.
 
-Pour les entraînements du Mardi, le rendez-vous est pris à 18h30 le mardi soir
+Le groupe running a une autre séance à 18h30 le mercerdi soir
 à l'écluse de Pont-de-Pany, à l'intersection entre la rue de Bourgogne et la
 voie cyclable.
 
