@@ -51,11 +51,11 @@ en fin de matinée.
 ![Groupe du Samedi](/images/samedi-adultes.jpg)
 
 
-## Mardi Soir
+## Mercredi Soir
 
 ![Groupe du Mardi](/images/mardi.jpg)
 
-L'entraînement du mardi soir est un entraînement structuré qui propose une
+L'entraînement du mercredi soir est un entraînement structuré qui propose une
 séance de fractionné intensif. Il s'agit de courir rapidement sur une distance
 courte (100, 200, 300 ou 400M), de récupérer, puis de recommencer en alternance
 un certain nombre de fois.
@@ -66,7 +66,7 @@ en période de reprise ou d'entretien.
 
 [Plus d'info sur Wikipédia](https://fr.wikipedia.org/wiki/Entra%C3%AEnement_fractionn%C3%A9)
 
-Le rendez-vous est pris à 18h30 le mardi soir à l'écluse de Pont-de-Pany, à
+Le rendez-vous est pris à 18h30 le mercredi soir à l'écluse de Pont-de-Pany, à
 l'intersection entre la rue de Bourgogne et la voie cyclable.
 
 [Endroit précis](https://goo.gl/maps/hfFYVNmRWCK138ya8)
