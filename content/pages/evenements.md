@@ -4,7 +4,7 @@ status: hidden
 
 ## Trail des Sorcières
 
-![Trail des Sorcières](/documents/AfficheTrail.pdf)
+-[Trail des Sorcières](/documents/AfficheTrail.pdf)
 *Trail des Sorcières*
 
 [Site de l'évènement](http://www.traildesorcieres.com)
