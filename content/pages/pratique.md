@@ -37,8 +37,8 @@ Dans tous les cas n'hésitez pas à nous contacter pour vous renseigner.
 
 Voici les documents pour l'inscription:
 
-- [Guide pratique à consulter avant inscription](documents/Info-pratiques.pdf)
-- [Fiche d'inscription 2022-2023](/documents/Fiche-inscription-2022-2023.pdf)
+- [Guide pratique à consulter avant inscription](documents/InfoPratiques.pdf)
+- [Fiche d'inscription 2022-2023](/documents/FicheInscription.pdf)
 - [Fiche de liaison](/documents/fichedeliaison.pdf)
 - [Questionnaire santé pour mineur](/documents/QSmineur.pdf)
 - [Questionnaire santé pour majeur](/documents/QSmajeur.pdf)
