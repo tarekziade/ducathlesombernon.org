@@ -1,4 +1,4 @@
-title: Marche Nordique et Randonnée
+title: Marche Nordique et Balade
 date: 2023-03-29
 Category: Actualités
 
