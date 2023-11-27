@@ -17,12 +17,12 @@ contre-bas du collège, et il est déconseillé de se garer rue de Lauterecken.
 
 Rendez-vous à 10h pour les enfants et à 10h15 pour le groupe running.
 
-Le groupe running a une autre séance à 18h30 le mercerdi soir
-à l'écluse de Pont-de-Pany, à l'intersection entre la rue de Bourgogne et la
-voie cyclable.
+Le groupe running a une autre séance à 18h30 le mercredi soir à l'écluse de Pont-de-Pany, à l'intersection entre la rue de Bourgogne et la voie cyclable en alternance avec d'autres lieux annoncés dans le groupe WhatsApp.
 
 ![Plan](/images/plan-pany.jpg)
 *Plan d'accès Pont-de-Pany*
+
+Pour le running, la séance du samedi est une sortie en aisance respiratoire pour améliorer son endurance et celle du mercredi, accessible à tous, est de type fractionné pour développer ou entretenir ses capacités.
 
 
 ## Inscription
