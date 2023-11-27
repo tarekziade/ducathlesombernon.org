@@ -48,12 +48,12 @@ voir proposer une séance plus ardue. Le petit plus c'est que la séance permet
 de venir avec ses enfants qui pratiquent avec leurs groupes et de les récupérer
 en fin de matinée.
 
-![Groupe du Samedi](/images/samedi-adultes.jpg)
+![Groupe du Samedi](/images/adultes-1.jpg)
 
 
 ## Mercredi Soir
 
-![Groupe du Mardi](/images/mardi.jpg)
+![Groupe du Mardi](/images/adultes-2.jpg)
 
 L'entraînement du mercredi soir est un entraînement structuré qui propose une
 séance de fractionné intensif. Il s'agit de courir rapidement sur une distance
